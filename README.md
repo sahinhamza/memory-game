@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Live
 
-[https://hamzasahin-memory-game.netlify.app/](Click Here)
+[Click Here](https://hamzasahin-memory-game.netlify.app/)
